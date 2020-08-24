@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "My Notes",
+    title: "Venturemark's Digital Garden",
   },
   plugins: [`gatsby-theme-andy`],
 };
