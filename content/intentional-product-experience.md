@@ -10,4 +10,4 @@ Lots of software these days is, unfortunately, rather unintentional. As technolo
 
 It is no longer adequate to build software that works but leave the participant experience to chance.
 
-Intentional Design is an emerging discipline to solve software's gap in solving problems for humans.
+Intentional Design is an emerging discipline to solve software's gap in solving fundamental human needs.
