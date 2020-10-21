@@ -7,3 +7,4 @@ When you type in a search box, you need to remember the name of the thing you're
 Words can often be on the tip of the tongue. The human brain is terrible at keeping more than a few ideas top of mind.
 
 This is one reason why [[effective knowledge software allows the reader to come across the most relevant information, even if the composer or recipients forget about it]]
+it is also why [[Effective knowledge tools organize attention and working memory in the context of willpower]]

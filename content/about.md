@@ -2,14 +2,12 @@
 title: What I'm thinking about
 ---
 
-One of the most important obstacles to [[accelerate innovation]] is capturing it effectively.
+The most important obstacle to [[accelerate innovation]] is capturing it effectively.
 
-Some investors describe this problem as information overload or keeping track of signal from the companies they invest in
+An entrepreneur cannot know she is making progress without feedback. An investor cannot understand what is worth investing in without context.
 
-I view this problem as one that can partially be solved by technology through better tools to capture progress.
+I believe [[atomic updates]] are the solution.
 
-My current hypothesis is that [[atomic updates]] are the best way to capture progress because they enable update standardization.
-
-[Venturemark](https://venturemark.co/) is an experimental platform for creating these atomic updates.
+[Venturemark](https://venturemark.co/) is an experiment to make creating atom updates easy.
 
 [about me](https://marcusellison.com/)
